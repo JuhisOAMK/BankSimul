@@ -1,0 +1,17 @@
+INPUT(
+./debug/kirjautuminen.o
+./debug/main.o
+./debug/mainwindow.o
+./debug/loginok.o
+./debug/nostarahaa.o
+./debug/siirrarahaa.o
+./debug/tilitapahtumat.o
+./debug/saldo.o
+./debug/moc_kirjautuminen.o
+./debug/moc_mainwindow.o
+./debug/moc_loginok.o
+./debug/moc_nostarahaa.o
+./debug/moc_siirrarahaa.o
+./debug/moc_tilitapahtumat.o
+./debug/moc_saldo.o
+);
